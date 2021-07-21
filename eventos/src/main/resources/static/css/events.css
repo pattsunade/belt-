@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.salida {
+    margin-left: 1000px;
+
+}
+h1 {
+  
+    width: 800px;
+}
+table{
+    background: #c3bef0;
+    margin: 30px;
+   
+}
+h3 {
+    margin-top: 20px;
+}
+.boton {
+	background-color: #ffffd2;
+    margin-left: 220px;
+	border: none;
+	padding: 10px;
+	width: 120px;
+	border-radius: 5px;
+	font-weight: normal;
+}
+.creator{
+    border: 1px solid black;
+    width: 410px;
+    height: 370px;
+    padding: 20px;
+}
+.log {
+	border: none;
+	padding: 6px;
+	border-radius: 5px;
+
+}

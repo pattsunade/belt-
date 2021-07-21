@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.boton {
+	background-color: #ffffd2;
+	margin-left: 75%;
+	border: none;
+	padding: 8px;
+	width: 100px;
+	border-radius: 5px;
+	font-weight: normal;
+}
+.log {
+	border: none;
+	padding: 6px;
+	border-radius: 5px;
+
+}
+.contenedor {
+	width: 45%;
+	margin: 20px;
+	display: inline-block;
+	vertical-align: top;
+	border: #aa96da 5px double;
+	border-radius: 3px;
+	padding: 15px;
+}

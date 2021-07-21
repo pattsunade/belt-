@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.alert {
+    background: #ffffd2;
+    width: 600px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.table {
+    width: 500px;
+    background: #a8d8ea;
+    
+}
+#js{
+    display:flex;
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px gray;
+    padding: 10px;
+    overflow-y: scroll;
+    background-color: white; 
+    color: black;
+    margin-left: 700px;
+    
+   
+}
+.mensaje {
+    margin-left: 700px;
+
+   
+}
+.cometnario {
+    background: firebrick;
+    width: 500px;
+    margin-top: -180px;
+    margin-left: 30px;
+    
+}
+.log {
+    border: none;
+	padding: 6px;
+	border-radius: 5px;
+  
+}
+.alinear {
+     display: inline-block;
+    vertical-align: top;
+}
